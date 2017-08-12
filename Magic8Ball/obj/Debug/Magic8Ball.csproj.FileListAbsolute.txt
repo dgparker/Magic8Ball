@@ -1,0 +1,6 @@
+D:\Projects portfolio\VisualStudioProjects\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.exe.config
+D:\Projects portfolio\VisualStudioProjects\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.exe
+D:\Projects portfolio\VisualStudioProjects\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.pdb
+D:\Projects portfolio\VisualStudioProjects\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.csprojResolveAssemblyReference.cache
+D:\Projects portfolio\VisualStudioProjects\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.exe
+D:\Projects portfolio\VisualStudioProjects\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.pdb
